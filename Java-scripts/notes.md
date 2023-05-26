@@ -39,8 +39,12 @@ const items = ["Nazmul", "10", "true"]
 
 ### If-Else case ###
 
+```
  "==" means no data type check
  "===" means must be check the data type
+```
 
+```
  "?" represents "then" 
  ":" represents "else"
+ ```
