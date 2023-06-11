@@ -47,4 +47,10 @@ const items = ["Nazmul", "10", "true"]
 ```
  "?" represents "then" 
  ":" represents "else"
- ```
+```
+
+
+```
+Java script is a language which is working on runtime env with single thread.
+```
+
